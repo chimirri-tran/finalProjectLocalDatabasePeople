@@ -1,5 +1,5 @@
-package src.introsde.document.endpoint;
-import src.introsde.document.ws.PeopleImpl;
+package introsde.document.endpoint;
+import introsde.document.ws.PeopleImpl;
 
 import javax.xml.ws.Endpoint;
 
