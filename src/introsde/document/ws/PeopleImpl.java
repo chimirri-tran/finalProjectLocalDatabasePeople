@@ -1,15 +1,14 @@
-package src.introsde.document.ws;
+package introsde.document.ws;
 
 import java.util.List;
 
 import javax.jws.WebService;
 
-//import src.introsde.document.model.Goal;
-import src.introsde.document.model.Person;
+import introsde.document.model.Person;
 
 //Service Implementation
 
-@WebService(endpointInterface = "src.introsde.document.ws.People",
+@WebService(endpointInterface = "introsde.document.ws.People",
 	serviceName="PeopleService")
 public class PeopleImpl implements People {
    
