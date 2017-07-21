@@ -1,6 +1,6 @@
-package src.introsde.document.ws;
+package introsde.document.ws;
 
-import src.introsde.document.model.Person;
+import introsde.document.model.Person;
 //import introsde.document.model.Goal;
 
 import java.util.List;
