@@ -1,4 +1,4 @@
-package src.introsde.document.dao;
+package introsde.document.dao;
 
 import java.util.List;
 import javax.persistence.EntityManager;

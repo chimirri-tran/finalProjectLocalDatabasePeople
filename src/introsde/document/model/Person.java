@@ -1,6 +1,6 @@
-package src.introsde.document.model;
+package introsde.document.model;
 
-import src.introsde.document.dao.LifeCoachDao;
+import introsde.document.dao.LifeCoachDao;
 
 import java.io.Serializable;
 import java.util.List;
