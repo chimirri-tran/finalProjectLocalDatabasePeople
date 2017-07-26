@@ -4,7 +4,6 @@ import java.util.List;
 
 import javax.jws.WebService;
 
-//import introsde.document.model.Goal;
 import introsde.document.model.Person;
 
 //Service Implementation
